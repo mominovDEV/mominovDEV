@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mominovdev&label=Profile%20views&color=0e75b6&style=flat" alt="mominovdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mardon_mominjon" target="blank"><img src="https://img.shields.io/twitter/follow/mardon_mominjon?logo=twitter&style=for-the-badge" alt="mardon_mominjon" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
